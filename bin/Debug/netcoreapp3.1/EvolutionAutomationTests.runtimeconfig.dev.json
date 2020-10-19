@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\csoria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\csoria\\.nuget\\packages"
+    ]
+  }
+}
